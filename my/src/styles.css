@@ -1,0 +1,13 @@
+div{
+    background-color: black;
+    color:white;
+}
+.toDo{
+    background-color: azure;
+    color:black;
+    text-align: justify;
+    margin: 0 auto;
+    padding:1rem;
+    border: 1rem solid black;
+
+}
